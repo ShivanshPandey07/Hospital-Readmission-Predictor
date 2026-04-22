@@ -14,7 +14,8 @@ flags high-risk patients before discharge so clinicians can intervene.
 - **XGBoost** — Champion ML model with SHAP explainability  
 - **Tableau** — Interactive 4-panel risk dashboard
 - **Flask** — REST API serving live risk predictions
-
+## Live Dashboard
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/shivansh.pandey1813/viz/HOSPITALREADMISSIONANALYTICS/Dashboard1?publish=yes)
 ## Dataset
 Diabetes 130-US Hospitals (1999-2008) — UCI ML Repository  
 101,766 encounters · 50 features · 11.2% readmission rate
