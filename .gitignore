@@ -3,6 +3,10 @@ __pycache__/
 *.pyc
 .DS_Store
 data/raw/
+data/processed/tableau_data.csv
+data/processed/features.csv
+models/
+tableau/tableau_data.csv
 .env
 .vscode/
 .ipynb_checkpoints/
