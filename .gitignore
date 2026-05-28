@@ -1,12 +1,17 @@
-venv/
+# Python
 __pycache__/
 *.pyc
-.DS_Store
-data/raw/
-data/processed/tableau_data.csv
-data/processed/features.csv
-models/
-tableau/tableau_data.csv
-.env
-.vscode/
+.venv/
+venv/
+env/
 .ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Large data / models (GitHub rejects files >100MB)
+*.csv
+*.parquet
+*.pkl
+*.joblib
+data/raw/
